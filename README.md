@@ -1,4 +1,7 @@
 # MachineLearning
+
+Student ID: g00321445
+
 Machine learning AUT 2022 
 
 This repository contains the submission for Machine learning AUT 2022 module
